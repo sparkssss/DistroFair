@@ -1,6 +1,8 @@
 # Supplementary Package
 
-DistroFair is an automated test generation framework that identifies class-level fairness violations. DistroFair automatically learns the distribution of images in the dataset and generates images that are outside the distribution and finds class-level fairness violations in the generated images.
+[DistroFair](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001353) is an automated test generation framework that identifies class-level fairness violations. DistroFair automatically learns the distribution of images in the dataset and generates images that are outside the distribution and finds class-level fairness violations in the generated images.
+
+Link: [DOI](https://doi.org/10.1016/j.jss.2024.112090)
 
 ## Requirements
 
